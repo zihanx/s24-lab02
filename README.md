@@ -1,2 +1,2 @@
 # s24-lab02
-17-214/514 s2024 lab02
+Find instructions at [link]
